@@ -1,0 +1,53 @@
+.resultContainer {
+  text-align: center;
+  margin-top: 20px;
+  margin: 30px auto;
+  width: 80%;
+  padding: 20px;
+  background: white;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  font-family: "Poppins", sans-serif;
+}
+
+.textResult {
+  font-size: 1.2rem;
+  margin-top: 10px;
+  padding: 10px;
+  background: #f8fbff;
+  border-left: 5px solid #1da1f2;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+  font-size: 1.1rem;
+}
+
+.table th {
+  background-color: #1da1f2;
+  color: white;
+}
+
+.loadMoreButton {
+  margin-top: 10px;
+  padding: 12px;
+  background-color: #1da1f2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.loadMoreButton:hover {
+  background-color: #0c85d0;
+}

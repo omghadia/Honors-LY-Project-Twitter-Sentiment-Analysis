@@ -1,0 +1,10 @@
+.navbar {
+  background: linear-gradient(to right, #1da1f2, #0c85d0);
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
